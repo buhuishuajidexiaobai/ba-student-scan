@@ -1,3 +1,5 @@
+> ⚠️ **本仓库已合并至 [buhuishuajidexiaobai/ba-scanner](https://github.com/buhuishuajidexiaobai/ba-scanner)**（三引擎整合 + 图形启动器，单一 Release 下载）。本仓库转入维护模式不再更新，历史版本 Release 仍可下载。本目录以下内容为合并时的最终快照。
+
 # 蔚蓝档案学生练度扫描器 (BA Student Scan)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
